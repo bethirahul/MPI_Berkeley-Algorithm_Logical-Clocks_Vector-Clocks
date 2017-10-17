@@ -1,0 +1,8 @@
+3
+exec 1
+exec 2
+send 1 2 "silly message"
+send 3 2 "flanker"
+exec 3
+send 2 1 "rally sport"
+end
